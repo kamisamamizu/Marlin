@@ -1,6 +1,6 @@
-# Ender 3 V2 JyersUI
+# Ender 3 V2 v.2
 
-This fork was created with the intention of giving the best possible experience to E3V2 users. However, GitHub, flashing new firmware, etc. can all be quite daunting for new users. Pretty much everything you need to know is here on github, so here's a quick rundown of where to find what you need!
+This is a fork of Jyers firmware for my own usecase. Ender 3 V2 with the Trianglelab Direct Drive kit and a 3d-touch.
 
 ## General Info
 
